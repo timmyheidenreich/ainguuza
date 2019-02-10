@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chexaegi.tomasp.net/sitemap.xml
